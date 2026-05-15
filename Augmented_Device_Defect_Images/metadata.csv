@@ -1,0 +1,11 @@
+filepath,relative_path,device_type,damage_status,top_level_folder,has_damage_label,has_device_type_label,device_type_label_source,is_defect_folder,is_standard_device_image,is_defect_challenge,is_augmented,source_relative_path
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\1.png,1.png,1.png,,1.png,False,True,folder-or-metadata,False,False,True,False,1.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\10.png,10.png,10.png,,10.png,False,True,folder-or-metadata,False,False,True,False,10.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\2.png,2.png,2.png,,2.png,False,True,folder-or-metadata,False,False,True,False,2.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\3.png,3.png,3.png,,3.png,False,True,folder-or-metadata,False,False,True,False,3.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\4.png,4.png,4.png,,4.png,False,True,folder-or-metadata,False,False,True,False,4.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\5.png,5.png,5.png,,5.png,False,True,folder-or-metadata,False,False,True,False,5.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\6.png,6.png,6.png,,6.png,False,True,folder-or-metadata,False,False,True,False,6.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\7.png,7.png,7.png,,7.png,False,True,folder-or-metadata,False,False,True,False,7.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\8.png,8.png,8.png,,8.png,False,True,folder-or-metadata,False,False,True,False,8.png
+C:\Users\k-12outreach\Summer_Camp_MD MInhaz Uddin\Summer_Workshop_Data_Driven_Decision_Making\Augmented_Device_Defect_Images\9.png,9.png,9.png,,9.png,False,True,folder-or-metadata,False,False,True,False,9.png
